@@ -1,0 +1,9 @@
+process,time,pre_processes
+A,90,
+B,30,
+C,70,A
+D,10,A;B
+E,30,C;D
+F,60,D
+G,50,E
+H,80,E;F;G

@@ -1,0 +1,4 @@
+Machine;Machine End Time;Process
+1;150;(A 90);(B 30);(E 30)
+2;140;(H 80);(G 50);(D 10)
+3;130;(C 70);(F 60)
